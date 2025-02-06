@@ -19,5 +19,5 @@ Hello there, I'm Rodrigo, a System Engineering student at National Technological
 - 🔭 I'm currently working on personal projects
 - 🌱 I’m currently learning Java for Backend development
 - 💬 Ask me about ... idk, I'm just a chill dude
-- 📫 How to reach me: rvargasfernandez30@gmail.com or Instagram @rodrigovargas_(I got a Padoru as profile, ikyk)
+- 📫 How to reach me: rvargasfernandez30@gmail.com or Instagram @rodrigovargas_(I got a Padoru as profile, iykyk)
 - ⚡ Fun fact: I like to do things that seem to be a bit stressful just for fun
